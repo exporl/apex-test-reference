@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/.build/test/to_test/xmlplugin/datablockplugin_l34.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-09-04T13:37:47</startdate>
+	<enddate>2013-09-04T13:37:53</enddate>
+	<duration unit="seconds">5</duration>
+</general>
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">button</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial_100">
+<procedure >
+<stimulus>stimulus_100</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">button</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button</answer>
+<correctanswer>first</correctanswer>
+</corrector>
+<output>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial_110">
+<procedure >
+<stimulus>stimulus_110</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">button</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button</answer>
+<correctanswer>first</correctanswer>
+</corrector>
+<output>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial_120">
+<procedure >
+<stimulus>stimulus_120</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">button</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button</answer>
+<correctanswer>first</correctanswer>
+</corrector>
+<output>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

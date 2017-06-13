@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/examples/procedure/pluginprocedure.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-08-20T12:15:11</startdate>
+	<enddate>2013-08-20T12:15:16</enddate>
+	<duration unit="seconds">4</duration>
+</general>
+<trial id="trial1">
+<procedure>
+   Result from testprocedure
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button5</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button5</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure>
+   Result from testprocedure
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button2</answer>
+<correctanswer>button2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial3">
+<procedure>
+   Result from testprocedure
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button4</answer>
+<correctanswer>button3</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial4">
+<procedure>
+   Result from testprocedure
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button4</answer>
+<correctanswer>button4</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial5">
+<procedure>
+   Result from testprocedure
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button4</answer>
+<correctanswer>button5</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>2</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial6">
+<procedure>
+   Result from testprocedure
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button2</answer>
+<correctanswer>button6</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

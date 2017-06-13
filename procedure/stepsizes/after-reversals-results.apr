@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/.build/test/to_test/procedure/stepsizes/after-reversals.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-09-04T13:30:44</startdate>
+	<enddate>2013-09-04T13:30:52</enddate>
+	<duration unit="seconds">8</duration>
+</general>
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-50</parameter>
+	<stepsize>5</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>0</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-45</parameter>
+	<stepsize>5</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>1</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-47</parameter>
+	<stepsize>2</stepsize>
+	<reversals>1</reversals>
+	<saturation>false</saturation>
+	<presentations>2</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-44</parameter>
+	<stepsize>3</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>3</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-41</parameter>
+	<stepsize>3</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>4</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-38</parameter>
+	<stepsize>3</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>5</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-41</parameter>
+	<stepsize>3</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>6</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-44</parameter>
+	<stepsize>3</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>7</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-41</parameter>
+	<stepsize>3</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>8</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-38</parameter>
+	<stepsize>3</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>9</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-35</parameter>
+	<stepsize>3</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>10</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-38</parameter>
+	<stepsize>3</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>11</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-41</parameter>
+	<stepsize>3</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>12</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-44</parameter>
+	<stepsize>3</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>13</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-47</parameter>
+	<stepsize>3</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>14</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-44</parameter>
+	<stepsize>3</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>15</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<parameter>-41</parameter>
+	<stepsize>3</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>16</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-44</parameter>
+	<stepsize>3</stepsize>
+	<reversals>7</reversals>
+	<saturation>false</saturation>
+	<presentations>17</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-41</parameter>
+	<stepsize>3</stepsize>
+	<reversals>8</reversals>
+	<saturation>false</saturation>
+	<presentations>18</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">bus</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bus</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial0">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-44</parameter>
+	<stepsize>3</stepsize>
+	<reversals>9</reversals>
+	<saturation>false</saturation>
+	<presentations>19</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">ander</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>ander</answer>
+<correctanswer>bus</correctanswer>
+</corrector>
+<output>
+<device id="dev">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="VIRTUAL_TRIAL" type="virtual">
+<!-- This is not a real trial, but a virtual trial based on the previous-->
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus0</stimulus>
+	<reversal/>
+	<parameter>-41</parameter>
+	<stepsize>3</stepsize>
+	<reversals>10</reversals>
+	<saturation>false</saturation>
+	<presentations>20</presentations>
+</procedure>
+</trial>
+
+</apex:results>

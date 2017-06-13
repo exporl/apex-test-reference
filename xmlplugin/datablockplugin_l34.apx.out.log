@@ -1,0 +1,299 @@
+Entered main
+Instantiated Service Application
+Instantiated Service ErrorHandler
+Instantiated Service Application
+Instantiated Service Paths
+Qt Library paths:
+/usr/lib/kde4/plugins
+/usr/lib/i386-linux-gnu/qt4/plugins
+/usr/lib/qt4/plugins
+/home/jonas/apex/bin/debug
+APEX:: Apex version 3.0.x, $Rev$
+APEX:: Compiled with Qt version 4.8.1
+APEX:: Running with Qt version 4.8.1
+APEX:: The APEX 3 binaries use the Trolltech Qt framework available 
+under the GNU General Public License (GPL version 2) on: 
+http://www.trolltech.com. The APEX 3 source code and 
+binaries are available under the GNU General Public License 
+(GPL version 2) on http://www.kuleuven.be/exporl/apex.
+Looking for apexconfig.xml in /home/jonas/.config/ExpORL/apexconfig.xml
+Trying /home/jonas/apex
+Trying /home/jonas
+Trying /home
+ApexControl:: Parsing apexconfig file /home/jonas/apex//data/config/apexconfig.xml
+with schema /home/jonas/apex/data/schemas/apexconfig.xsd
+Looking for apexconfig.xml in /home/jonas/.config/ExpORL/apexconfig.xml
+Trying /home/jonas/apex
+Trying /home/jonas
+Trying /home
+Instantiated Service Configuration
+http://med.kuleuven.be/exporl/apex/3.0.2/config /home/jonas/apex/data/schemas/apexconfig.xsd
+ApexControl:: Done
+Configure done
+Instantiated Service ApexControl
+ApexControl:: Using filename given on the command line
+Selecting File /home/jonas/apex/.build/test/to_test/xmlplugin/datablockplugin_l34.apx
+Parsing Experiment
+ApexControl:: Parsing /home/jonas/apex/.build/test/to_test/xmlplugin/datablockplugin_l34.apx
+http://med.kuleuven.be/exporl/apex/3.0.2/experiment /home/jonas/apex/data/schemas/experiment.xsd
+ExperimentParser: parsing...
+Parsing procedure
+Script library: 
+opening /home/jonas/apex/.build/test/to_test/xmlplugin/datablockgenerator_l34.js
+Executing XML plugin script
+=========== Evaluating getTrials ==================
+<trial id="trial_100"><answer>first</answer><screen id="screen"/><stimulus id="stimulus_100"/></trial><trial id="trial_110"><answer>first</answer><screen id="screen"/><stimulus id="stimulus_110"/></trial><trial id="trial_120"><answer>first</answer><screen id="screen"/><stimulus id="stimulus_120"/></trial>
+========== end evaluation ==============
+Parsing corrector
+Parsing screens
+ExperimentParser:: Parsing Screens
+ExperimentParser:: Done
+Parsing datablocks
+Script library: 
+opening /home/jonas/apex/.build/test/to_test/xmlplugin/datablockgenerator_l34.js
+Executing XML plugin script
+=========== Evaluating getDatablocks ==================
+110
+120
+130
+<datablock id='datablock_100'><device>l34device</device><data><nic:sequence xmlns:nic='http://www.cochlear.com/nic' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.cochlear.com/nic nic-stimuli.xsd' ><stimulus><parameters><ae>5</ae><re>-1</re><cl>100</cl><t>1000.0</t><pw>25.0</pw><pg>8.0</pg></parameters></stimulus></nic:sequence></data></datablock><datablock id='datablock_110'><device>l34device</device><data><nic:sequence xmlns:nic='http://www.cochlear.com/nic' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.cochlear.com/nic nic-stimuli.xsd' ><stimulus><parameters><ae>5</ae><re>-1</re><cl>110</cl><t>1000.0</t><pw>25.0</pw><pg>8.0</pg></parameters></stimulus></nic:sequence></data></datablock><datablock id='datablock_120'><device>l34device</device><data><nic:sequence xmlns:nic='http://www.cochlear.com/nic' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.cochlear.com/nic nic-stimuli.xsd' ><stimulus><parameters><ae>5</ae><re>-1</re><cl>120</cl><t>1000.0</t><pw>25.0</pw><pg>8.0</pg></parameters></stimulus></nic:sequence></data></datablock>
+========== end evaluation ==============
+Parsing devices
+Parsing devices
+ExperimentConfigFileParser:: Processing devices
+number_electrodes
+mode
+pulsewidth
+pulsegap
+period
+channel
+channelnr = 1
+electrode = 1
+channel
+channelnr = 2
+electrode = 2
+channel
+channelnr = 3
+electrode = 3
+channel
+channelnr = 4
+electrode = 4
+channel
+channelnr = 5
+electrode = 5
+channel
+channelnr = 6
+electrode = 6
+channel
+channelnr = 7
+electrode = 7
+channel
+channelnr = 8
+electrode = 8
+channel
+channelnr = 9
+electrode = 9
+channel
+channelnr = 10
+electrode = 10
+channel
+channelnr = 11
+electrode = 11
+channel
+channelnr = 12
+electrode = 12
+channel
+channelnr = 13
+electrode = 13
+channel
+channelnr = 14
+electrode = 14
+channel
+channelnr = 15
+electrode = 15
+channel
+channelnr = 16
+electrode = 16
+channel
+channelnr = 17
+electrode = 17
+channel
+channelnr = 18
+electrode = 18
+channel
+channelnr = 19
+electrode = 19
+channel
+channelnr = 20
+electrode = 20
+channel
+channelnr = 21
+electrode = 21
+channel
+channelnr = 22
+electrode = 22
+ExperimentConfigFileParser:: Processing devices
+Parsing filters
+ExperimentParser:: Processing filters
+ExperimentParser:: Done
+Parsing stimuli
+ExperimentParser:: Processing stimuli
+opening /home/jonas/apex/.build/test/to_test/xmlplugin/datablockgenerator_l34.js
+Executing XML plugin script
+=========== Evaluating getStimuli ==================
+========== end evaluation ==============
+Parsing connections
+ExperimentParser:: Processing Connections
+ExperimentParser:: Done
+Pluginloader: scanning directory /home/jonas/apex/bin/debug
+Instantiated Service PluginLoader
+Pluginloader: scanning directory /home/jonas/apex/.build/test/to_test/xmlplugin
+APEX:: 0 Error
+APEX:: 0 Warning(s)
+ApexControl:: DONE
+Enabling output recording
+OutputRecorder:: Can only record an experiment if a wav device is used
+OutputRecorder:: Can only record an experiment if a wav device is used
+Making output devices
+Initializing L34-cic4-0
+Making control devices
+Making datablocks
+Making filters
+Making corrector
+L34Device::SetParameter channels=1
+L34Device::SetParameter device_type=L34
+L34Device::SetParameter powerup_count=4000
+L34Device::SetParameter device_id=0
+L34Device::SetParameter implant=cic4
+L34Device::SetParameter trigger=none
+L34Device::SetParameter defaultmap=3MP1+2258138
+APEX:: 0 Error
+APEX:: 1 Warning(s)
+ApexControl:: DONE
+Parse commandline done
+Shown MainWindow
+getting point size for text "button" 
+Sending <stop/>
+Number of powerup frames: 4000
+** Time for creating sendbuffer: 1
+** Time in m_pDevice->send(): 0
+apex::ApexModule:: Playing Stimulus stimulus1
+Sending <start>immediate</start>
+L34Device::AllDone( )
+Waiting 234 ms for stimulation to end (total stimulus duration=280 ms)
+End wait
+streaming<code>1<code>6
+streaming<code>1<code>6
+streaming<code>1<code>6
+leaving L34Device::AllDone( )
+Automatically selecting button
+***iAnswered
+Feedback:: Cannot show feedback because: No screen found for button1
+Sending <stop/>
+Number of powerup frames: 4000
+** Time for creating sendbuffer: 0
+** Time in m_pDevice->send(): 0
+apex::ApexModule:: Playing Stimulus stimulus_100
+Sending <start>immediate</start>
+L34Device::AllDone( )
+Waiting 233 ms for stimulation to end (total stimulus duration=280 ms)
+End wait
+streaming<code>1<code>6
+streaming<code>1<code>6
+streaming<code>1<code>6
+leaving L34Device::AllDone( )
+Automatically selecting button
+***iAnswered
+Feedback:: Cannot show feedback because: No screen found for first
+Sending <stop/>
+Number of powerup frames: 4000
+** Time for creating sendbuffer: 0
+** Time in m_pDevice->send(): 0
+apex::ApexModule:: Playing Stimulus stimulus_110
+Sending <start>immediate</start>
+L34Device::AllDone( )
+Waiting 232 ms for stimulation to end (total stimulus duration=280 ms)
+End wait
+streaming<code>1<code>6
+streaming<code>1<code>6
+streaming<code>1<code>6
+leaving L34Device::AllDone( )
+Automatically selecting button
+***iAnswered
+Feedback:: Cannot show feedback because: No screen found for first
+Sending <stop/>
+Number of powerup frames: 4000
+** Time for creating sendbuffer: 0
+** Time in m_pDevice->send(): 1
+apex::ApexModule:: Playing Stimulus stimulus_120
+Sending <start>immediate</start>
+L34Device::AllDone( )
+Waiting 232 ms for stimulation to end (total stimulus duration=280 ms)
+End wait
+streaming<code>1<code>6
+streaming<code>1<code>6
+streaming<code>1<code>6
+leaving L34Device::AllDone( )
+Automatically selecting button
+***iAnswered
+Feedback:: Cannot show feedback because: No screen found for first
+ApexResultSink::SaveAs(): m_filename=/home/jonas/apex/.build/test/to_test/xmlplugin/datablockplugin_l34-results.apr
+Current path = /home/jonas/apex/.build/test/to_test/xmlplugin
+ApexControl:: Experiment Finished
+APEX:: 
+ExitAfter defined, exiting...
+L34File::send: <status/>
+L34File::send: <timeout>10</timeout>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <nic:sequence xmlns:nic='http://www.cochlear.com/nic' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.cochlear.com/nic nic-stimuli.xsd' ><stimulus repeat='4000'><parameters><pw>25</pw><pg>8</pg><ae>0</ae><re>0</re><cl>0</cl><t>70</t></parameters></stimulus></nic:sequence>
+L34File::send:         <nic:sequence xmlns:nic="http://www.cochlear.com/nic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cochlear.com/nic nic-stimuli.xsd">          <stimulus>            <parameters>                <ae>12</ae><re>-1</re><cl>129</cl><t>10000.0</t><pw>25.0</pw><pg>8.0</pg>            </parameters>          </stimulus>          <stimulus>            <parameters>                <ae>12</ae><re>-1</re><cl>140</cl><t>10000.0</t><pw>25.0</pw><pg>8.0</pg>             </parameters>          </stimulus>          </nic:sequence>      
+L34File::send: <end/>
+L34File::send: <start>immediate</start>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <nic:sequence xmlns:nic='http://www.cochlear.com/nic' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.cochlear.com/nic nic-stimuli.xsd' ><stimulus repeat='4000'><parameters><pw>25</pw><pg>8</pg><ae>0</ae><re>0</re><cl>0</cl><t>70</t></parameters></stimulus></nic:sequence>
+L34File::send: <nic:sequence xmlns:nic="http://www.cochlear.com/nic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cochlear.com/nic nic-stimuli.xsd"><stimulus><parameters><ae>5</ae><re>-1</re><cl>100</cl><t>1000.0</t><pw>25.0</pw><pg>8.0</pg></parameters></stimulus></nic:sequence>
+L34File::send: <end/>
+L34File::send: <start>immediate</start>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <nic:sequence xmlns:nic='http://www.cochlear.com/nic' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.cochlear.com/nic nic-stimuli.xsd' ><stimulus repeat='4000'><parameters><pw>25</pw><pg>8</pg><ae>0</ae><re>0</re><cl>0</cl><t>70</t></parameters></stimulus></nic:sequence>
+L34File::send: <nic:sequence xmlns:nic="http://www.cochlear.com/nic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cochlear.com/nic nic-stimuli.xsd"><stimulus><parameters><ae>5</ae><re>-1</re><cl>110</cl><t>1000.0</t><pw>25.0</pw><pg>8.0</pg></parameters></stimulus></nic:sequence>
+L34File::send: <end/>
+L34File::send: <start>immediate</start>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <nic:sequence xmlns:nic='http://www.cochlear.com/nic' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.cochlear.com/nic nic-stimuli.xsd' ><stimulus repeat='4000'><parameters><pw>25</pw><pg>8</pg><ae>0</ae><re>0</re><cl>0</cl><t>70</t></parameters></stimulus></nic:sequence>
+L34File::send: <nic:sequence xmlns:nic="http://www.cochlear.com/nic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cochlear.com/nic nic-stimuli.xsd"><stimulus><parameters><ae>5</ae><re>-1</re><cl>120</cl><t>1000.0</t><pw>25.0</pw><pg>8.0</pg></parameters></stimulus></nic:sequence>
+L34File::send: <end/>
+L34File::send: <start>immediate</start>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <status/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <stop/>
+L34File::send: <stop/>

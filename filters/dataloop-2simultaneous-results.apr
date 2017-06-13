@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/.build/test/to_test/filters/dataloop-2simultaneous.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-09-04T12:19:06</startdate>
+	<enddate>2013-09-04T12:19:28</enddate>
+	<duration unit="seconds">21</duration>
+</general>
+<trial id="trial1">
+<procedure >
+<skip/>
+<stimulus></stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>wrong</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+
+</device>
+</output>
+<responsetime unit='ms'>44346272</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">correct</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>correct</answer>
+<correctanswer>wrong</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>wrong</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">wrong</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>wrong</answer>
+<correctanswer>wrong</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">wrong</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>wrong</answer>
+<correctanswer>wrong</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">correct</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>correct</answer>
+<correctanswer>wrong</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>correct</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>wrong</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>127</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">wrong</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>wrong</answer>
+<correctanswer>wrong</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">wrong</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>wrong</answer>
+<correctanswer>wrong</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">correct</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>correct</answer>
+<correctanswer>wrong</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

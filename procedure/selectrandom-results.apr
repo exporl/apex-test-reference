@@ -1,0 +1,2309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/tom/data/apex/.build/test/to_test/procedure/selectrandom.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2012-11-23T11:09:39</startdate>
+	<enddate>2012-11-23T11:11:01</enddate>
+	<duration unit="seconds">82</duration>
+</general>
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus3</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus2</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button1</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

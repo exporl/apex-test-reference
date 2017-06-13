@@ -1,0 +1,188 @@
+Entered main
+Instantiated Service Application
+Instantiated Service ErrorHandler
+Instantiated Service Application
+Instantiated Service Paths
+Qt Library paths:
+/usr/lib/kde4/plugins
+/usr/lib/i386-linux-gnu/qt4/plugins
+/usr/lib/qt4/plugins
+/home/jonas/apex/bin/debug
+APEX:: Apex version 3.0.x, $Rev$
+APEX:: Compiled with Qt version 4.8.1
+APEX:: Running with Qt version 4.8.1
+APEX:: The APEX 3 binaries use the Trolltech Qt framework available 
+under the GNU General Public License (GPL version 2) on: 
+http://www.trolltech.com. The APEX 3 source code and 
+binaries are available under the GNU General Public License 
+(GPL version 2) on http://www.kuleuven.be/exporl/apex.
+Looking for apexconfig.xml in /home/jonas/.config/ExpORL/apexconfig.xml
+Trying /home/jonas/apex
+Trying /home/jonas
+Trying /home
+ApexControl:: Parsing apexconfig file /home/jonas/apex//data/config/apexconfig.xml
+with schema /home/jonas/apex/data/schemas/apexconfig.xsd
+Looking for apexconfig.xml in /home/jonas/.config/ExpORL/apexconfig.xml
+Trying /home/jonas/apex
+Trying /home/jonas
+Trying /home
+Instantiated Service Configuration
+http://med.kuleuven.be/exporl/apex/3.0.2/config /home/jonas/apex/data/schemas/apexconfig.xsd
+ApexControl:: Done
+Configure done
+Instantiated Service ApexControl
+ApexControl:: Using filename given on the command line
+Selecting File /home/jonas/apex/.build/test/to_test/filters/dataloop-2simultaneous.xml
+Parsing Experiment
+ApexControl:: Parsing /home/jonas/apex/.build/test/to_test/filters/dataloop-2simultaneous.xml
+http://med.kuleuven.be/exporl/apex/3.0.2/experiment /home/jonas/apex/data/schemas/experiment.xsd
+ExperimentParser: parsing...
+Parsing procedure
+Parsing corrector
+Parsing screens
+ExperimentParser:: Parsing Screens
+ExperimentParser:: Done
+Parsing datablocks
+Parsing devices
+Parsing devices
+ExperimentConfigFileParser:: Processing devices
+ExperimentConfigFileParser:: Processing devices
+Parsing filters
+ExperimentParser:: Processing filters
+ExperimentParser:: Done
+Parsing stimuli
+ExperimentParser:: Processing stimuli
+Parsing connections
+ExperimentParser:: Processing Connections
+ExperimentParser:: Done
+Pluginloader: scanning directory /home/jonas/apex/bin/debug
+Instantiated Service PluginLoader
+Pluginloader: scanning directory /home/jonas/apex/.build/test/to_test/filters
+APEX:: 0 Error
+APEX:: 0 Warning(s)
+ApexControl:: DONE
+Enabling output recording
+Making output devices
+Card name: default, Driver name: portaudio
+CreateSoundCard
+PortAudioWrapper::PortAudioWrapper default
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.hdmi.0:CARD=0,AES0=4,AES1=130,AES2=0,AES3=2'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM hdmi
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.hdmi.0:CARD=0,AES0=4,AES1=130,AES2=0,AES3=2'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM hdmi
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline:CARD=0,DEV=0
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline:CARD=0,DEV=0
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM phoneline
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM phoneline
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib pcm_dmix.c:957:(snd_pcm_dmix_open) The dmix plugin supports only playback stream
+getting device id for driver default
+in: 20 out: 20
+num of sample rates=9
+num of sample rates=9
+# channels: 2
+max channels: 32
+Using sound driver buffer size 4096
+Internal sound buffer size: 40960 samples
+WavDevice:: The buffersize specified in the experiment file could not be used.
+Using the systems default buffersize.
+Making control devices
+Making datablocks
+Silence datablock with length=999.000000 ms
+Warning using default number of channels (1) for silence datablock
+Making filters
+Making filter amplifier
+new gain value for amplifier: -18.000000
+Making filter filesink
+Looking for filesink plugin
+Making filter noisegen1
+"iscontinuous: " "false" 
+Random started at 74408 out of 133488 samples.
+Making filter noisegen2
+"iscontinuous: " "false" 
+Random started at 74408 out of 133488 samples.
+Making corrector
+ConnectionsFactory:: not every inputchannel of noisegen1 is connected
+ConnectionsFactory:: not every inputchannel of noisegen2 is connected
+ConnectionsFactory:: not every outputchannel of rawdata1 is connected
+ConnectionsFactory:: not every outputchannel of rawdata2 is connected
+ConnectionsFactory:: not every inputchannel of noisegen1 is connected
+ConnectionsFactory:: not every inputchannel of noisegen2 is connected
+ConnectionsFactory:: not every outputchannel of rawdata1 is connected
+ConnectionsFactory:: not every outputchannel of rawdata2 is connected
+resetting gain for amplifier to 0.000000
+new gain value for amplifier: -18.000000
+Wavdevice set gain of all channels to 0.000000
+APEX:: 0 Error
+APEX:: 5 Warning(s)
+ApexControl:: DONE
+Parse commandline done
+Shown MainWindow
+getting point size for text "Correct" 
+getting point size for text "Wrong" 
+Automatically selecting wrong
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus2
+Automatically selecting correct
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting wrong
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus2
+Automatically selecting wrong
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus2
+Automatically selecting wrong
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus2
+Automatically selecting correct
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting correct
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting wrong
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus2
+Automatically selecting wrong
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus2
+Automatically selecting wrong
+***iAnswered
+Found 1 answers corresponding to user input
+apex::ApexModule:: Playing Stimulus stimulus2
+Automatically selecting correct
+***iAnswered
+ApexResultSink::SaveAs(): m_filename=/home/jonas/apex/.build/test/to_test/filters/dataloop-2simultaneous-results.apr
+Current path = /home/jonas/apex/.build/test/to_test/filters
+ApexControl:: Experiment Finished
+APEX:: 
+ExitAfter defined, exiting...

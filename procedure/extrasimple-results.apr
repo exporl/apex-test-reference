@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/tom/data/apex/.build/test/to_test/procedure/extrasimple.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2012-11-23T11:03:07</startdate>
+	<enddate>2012-11-23T11:03:14</enddate>
+	<duration unit="seconds">6</duration>
+</general>
+<trial id="trial1">
+<procedure >
+<stimulus>stim_house</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">btn_mouse</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>btn_mouse</answer>
+<correctanswer>btn_house</correctanswer>
+</corrector>
+<output>
+<device id="soundcard">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stim_mouse</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">btn_house</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>btn_house</answer>
+<correctanswer>btn_mouse</correctanswer>
+</corrector>
+<output>
+<device id="soundcard">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<stimulus>stim_house</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">btn_mouse</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>btn_mouse</answer>
+<correctanswer>btn_house</correctanswer>
+</corrector>
+<output>
+<device id="soundcard">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure >
+<stimulus>stim_mouse</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">btn_mouse</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>btn_mouse</answer>
+<correctanswer>btn_mouse</correctanswer>
+</corrector>
+<output>
+<device id="soundcard">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

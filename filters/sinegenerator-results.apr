@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/.build/test/to_test/filters/sinegenerator.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-09-04T12:50:04</startdate>
+	<enddate>2013-09-04T12:50:24</enddate>
+	<duration unit="seconds">20</duration>
+</general>
+<trial id="trial100">
+<procedure >
+<skip/>
+<stimulus></stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">bdef</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>bdef</answer>
+<correctanswer>b100</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+
+</device>
+</output>
+<responsetime unit='ms'>46204165</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trialdef">
+<procedure >
+<stimulus>sdef</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">b100</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>b100</answer>
+<correctanswer>bdef</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial100">
+<procedure >
+<stimulus>s100</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">b1000</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>b1000</answer>
+<correctanswer>b100</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1000">
+<procedure >
+<stimulus>s1000</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">b1000</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>b1000</answer>
+<correctanswer>b1000</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1000">
+<procedure >
+<stimulus>s1000</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">b1000</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>b1000</answer>
+<correctanswer>b1000</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1000">
+<procedure >
+<stimulus>s1000</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">b100</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>b100</answer>
+<correctanswer>b1000</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial100">
+<procedure >
+<stimulus>s100</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">b1000</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>b1000</answer>
+<correctanswer>b100</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1000">
+<procedure >
+<stimulus>s1000</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">bdef</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>bdef</answer>
+<correctanswer>b1000</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trialdef">
+<procedure >
+<stimulus>sdef</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">bdef</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bdef</answer>
+<correctanswer>bdef</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trialdef">
+<procedure >
+<stimulus>sdef</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">bdef</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>bdef</answer>
+<correctanswer>bdef</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trialdef">
+<procedure >
+<stimulus>sdef</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">b100</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>b100</answer>
+<correctanswer>bdef</correctanswer>
+</corrector>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

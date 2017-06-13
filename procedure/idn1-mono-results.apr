@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/tom/data/apex/.build/test/to_test/procedure/idn1-mono.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2012-11-23T11:03:26</startdate>
+	<enddate>2012-11-23T11:03:27</enddate>
+	<duration unit="seconds">0</duration>
+</general>
+<trial id="trial1">
+<procedure >
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button5</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button5</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

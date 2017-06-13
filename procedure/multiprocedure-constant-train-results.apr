@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/.build/test/to_test/procedure/multiprocedure-constant-train.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-09-04T13:25:22</startdate>
+	<enddate>2013-09-04T13:25:24</enddate>
+	<duration unit="seconds">2</duration>
+</general>
+<trial id="trial1">
+<procedure id="procedure1">
+<stimulus>stimulus1</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button3</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button3</answer>
+<correctanswer>button1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial4">
+<procedure id="procedure2">
+<skip/>
+<stimulus></stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button4</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button4</answer>
+<correctanswer>button4</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+
+</device>
+</output>
+<responsetime unit='ms'>338</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial4">
+<procedure id="procedure2">
+<stimulus>stimulus4</stimulus>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button6</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button6</answer>
+<correctanswer>button4</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

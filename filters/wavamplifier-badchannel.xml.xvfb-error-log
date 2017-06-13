@@ -1,0 +1,4 @@
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/100dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/100dpi, removing from list!
+[dix] Could not init font path element /var/lib/defoma/x-ttcidfont-conf.d/dirs/TrueType, removing from list!

@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/tom/data/apex/.build/test/to_test/procedure/adaptive-1up-1down.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2012-11-23T11:00:44</startdate>
+	<enddate>2012-11-23T11:00:46</enddate>
+	<duration unit="seconds">2</duration>
+</general>
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>-10</parameter>
+	<stepsize>1</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>0</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">false</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>false</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>-9</parameter>
+	<stepsize>1</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>1</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>correct</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>-10</parameter>
+	<stepsize>1</stepsize>
+	<reversals>1</reversals>
+	<saturation>false</saturation>
+	<presentations>2</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">false</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>false</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>-9</parameter>
+	<stepsize>1</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>3</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">false</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>false</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>-8</parameter>
+	<stepsize>1</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>4</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">false</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>false</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>-7</parameter>
+	<stepsize>1</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>5</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>correct</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>-8</parameter>
+	<stepsize>1</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>6</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>correct</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>-9</parameter>
+	<stepsize>1</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>7</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">false</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>false</answer>
+<correctanswer>correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="VIRTUAL_TRIAL" type="virtual">
+<!-- This is not a real trial, but a virtual trial based on the previous-->
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>-8</parameter>
+	<stepsize>1</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>8</presentations>
+</procedure>
+</trial>
+
+</apex:results>

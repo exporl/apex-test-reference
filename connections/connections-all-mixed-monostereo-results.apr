@@ -1,0 +1,2907 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/.build/test/to_test/connections/connections-all-mixed-monostereo.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-09-04T11:57:03</startdate>
+	<enddate>2013-09-04T11:58:10</enddate>
+	<duration unit="seconds">66</duration>
+</general>
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>0</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>0</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>1</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>0</parameter>
+	<stepsize>2</stepsize>
+	<reversals>1</reversals>
+	<saturation>false</saturation>
+	<presentations>2</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>3</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>4</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>6</parameter>
+	<stepsize>2</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>5</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>6</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>7</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>8</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>6</parameter>
+	<stepsize>2</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>9</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>8</parameter>
+	<stepsize>2</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>10</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>6</parameter>
+	<stepsize>2</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>11</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>12</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>13</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>0</parameter>
+	<stepsize>2</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>14</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>15</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>16</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>7</reversals>
+	<saturation>false</saturation>
+	<presentations>17</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>8</reversals>
+	<saturation>false</saturation>
+	<presentations>18</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>9</reversals>
+	<saturation>false</saturation>
+	<presentations>19</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>10</reversals>
+	<saturation>false</saturation>
+	<presentations>20</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>6</parameter>
+	<stepsize>2</stepsize>
+	<reversals>10</reversals>
+	<saturation>false</saturation>
+	<presentations>21</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>2</stepsize>
+	<reversals>11</reversals>
+	<saturation>false</saturation>
+	<presentations>22</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>6</parameter>
+	<stepsize>2</stepsize>
+	<reversals>12</reversals>
+	<saturation>false</saturation>
+	<presentations>23</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>8</parameter>
+	<stepsize>2</stepsize>
+	<reversals>12</reversals>
+	<saturation>false</saturation>
+	<presentations>24</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>10</parameter>
+	<stepsize>2</stepsize>
+	<reversals>12</reversals>
+	<saturation>false</saturation>
+	<presentations>25</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>12</parameter>
+	<stepsize>2</stepsize>
+	<reversals>12</reversals>
+	<saturation>false</saturation>
+	<presentations>26</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>12</reversals>
+	<saturation>false</saturation>
+	<presentations>27</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>16</parameter>
+	<stepsize>2</stepsize>
+	<reversals>12</reversals>
+	<saturation>false</saturation>
+	<presentations>28</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>13</reversals>
+	<saturation>false</saturation>
+	<presentations>29</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>12</parameter>
+	<stepsize>2</stepsize>
+	<reversals>13</reversals>
+	<saturation>false</saturation>
+	<presentations>30</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>14</reversals>
+	<saturation>false</saturation>
+	<presentations>31</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>16</parameter>
+	<stepsize>2</stepsize>
+	<reversals>14</reversals>
+	<saturation>false</saturation>
+	<presentations>32</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>18</parameter>
+	<stepsize>2</stepsize>
+	<reversals>14</reversals>
+	<saturation>false</saturation>
+	<presentations>33</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>16</parameter>
+	<stepsize>2</stepsize>
+	<reversals>15</reversals>
+	<saturation>false</saturation>
+	<presentations>34</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>15</reversals>
+	<saturation>false</saturation>
+	<presentations>35</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>12</parameter>
+	<stepsize>2</stepsize>
+	<reversals>15</reversals>
+	<saturation>false</saturation>
+	<presentations>36</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>10</parameter>
+	<stepsize>2</stepsize>
+	<reversals>15</reversals>
+	<saturation>false</saturation>
+	<presentations>37</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>8</parameter>
+	<stepsize>2</stepsize>
+	<reversals>15</reversals>
+	<saturation>false</saturation>
+	<presentations>38</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>6</parameter>
+	<stepsize>2</stepsize>
+	<reversals>15</reversals>
+	<saturation>false</saturation>
+	<presentations>39</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>8</parameter>
+	<stepsize>2</stepsize>
+	<reversals>16</reversals>
+	<saturation>false</saturation>
+	<presentations>40</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>10</parameter>
+	<stepsize>2</stepsize>
+	<reversals>16</reversals>
+	<saturation>false</saturation>
+	<presentations>41</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>12</parameter>
+	<stepsize>2</stepsize>
+	<reversals>16</reversals>
+	<saturation>false</saturation>
+	<presentations>42</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>16</reversals>
+	<saturation>false</saturation>
+	<presentations>43</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>12</parameter>
+	<stepsize>2</stepsize>
+	<reversals>17</reversals>
+	<saturation>false</saturation>
+	<presentations>44</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>10</parameter>
+	<stepsize>2</stepsize>
+	<reversals>17</reversals>
+	<saturation>false</saturation>
+	<presentations>45</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>12</parameter>
+	<stepsize>2</stepsize>
+	<reversals>18</reversals>
+	<saturation>false</saturation>
+	<presentations>46</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>10</parameter>
+	<stepsize>2</stepsize>
+	<reversals>19</reversals>
+	<saturation>false</saturation>
+	<presentations>47</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>12</parameter>
+	<stepsize>2</stepsize>
+	<reversals>20</reversals>
+	<saturation>false</saturation>
+	<presentations>48</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>20</reversals>
+	<saturation>false</saturation>
+	<presentations>49</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>16</parameter>
+	<stepsize>2</stepsize>
+	<reversals>20</reversals>
+	<saturation>false</saturation>
+	<presentations>50</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>21</reversals>
+	<saturation>false</saturation>
+	<presentations>51</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>16</parameter>
+	<stepsize>2</stepsize>
+	<reversals>22</reversals>
+	<saturation>false</saturation>
+	<presentations>52</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>18</parameter>
+	<stepsize>2</stepsize>
+	<reversals>22</reversals>
+	<saturation>false</saturation>
+	<presentations>53</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>16</parameter>
+	<stepsize>2</stepsize>
+	<reversals>23</reversals>
+	<saturation>false</saturation>
+	<presentations>54</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>14</parameter>
+	<stepsize>2</stepsize>
+	<reversals>23</reversals>
+	<saturation>false</saturation>
+	<presentations>55</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>16</parameter>
+	<stepsize>2</stepsize>
+	<reversals>24</reversals>
+	<saturation>false</saturation>
+	<presentations>56</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>18</parameter>
+	<stepsize>2</stepsize>
+	<reversals>24</reversals>
+	<saturation>false</saturation>
+	<presentations>57</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>20</parameter>
+	<stepsize>2</stepsize>
+	<reversals>24</reversals>
+	<saturation>false</saturation>
+	<presentations>58</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>22</parameter>
+	<stepsize>2</stepsize>
+	<reversals>24</reversals>
+	<saturation>false</saturation>
+	<presentations>59</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>20</parameter>
+	<stepsize>2</stepsize>
+	<reversals>25</reversals>
+	<saturation>false</saturation>
+	<presentations>60</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>22</parameter>
+	<stepsize>2</stepsize>
+	<reversals>26</reversals>
+	<saturation>false</saturation>
+	<presentations>61</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>26</reversals>
+	<saturation>false</saturation>
+	<presentations>62</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>26</reversals>
+	<saturation>false</saturation>
+	<presentations>63</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>28</parameter>
+	<stepsize>2</stepsize>
+	<reversals>26</reversals>
+	<saturation>false</saturation>
+	<presentations>64</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>27</reversals>
+	<saturation>false</saturation>
+	<presentations>65</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>27</reversals>
+	<saturation>false</saturation>
+	<presentations>66</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>28</reversals>
+	<saturation>false</saturation>
+	<presentations>67</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>28</parameter>
+	<stepsize>2</stepsize>
+	<reversals>28</reversals>
+	<saturation>false</saturation>
+	<presentations>68</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>30</parameter>
+	<stepsize>2</stepsize>
+	<reversals>28</reversals>
+	<saturation>false</saturation>
+	<presentations>69</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>32</parameter>
+	<stepsize>2</stepsize>
+	<reversals>28</reversals>
+	<saturation>false</saturation>
+	<presentations>70</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>30</parameter>
+	<stepsize>2</stepsize>
+	<reversals>29</reversals>
+	<saturation>false</saturation>
+	<presentations>71</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>28</parameter>
+	<stepsize>2</stepsize>
+	<reversals>29</reversals>
+	<saturation>false</saturation>
+	<presentations>72</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>29</reversals>
+	<saturation>false</saturation>
+	<presentations>73</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>29</reversals>
+	<saturation>false</saturation>
+	<presentations>74</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>22</parameter>
+	<stepsize>2</stepsize>
+	<reversals>29</reversals>
+	<saturation>false</saturation>
+	<presentations>75</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>30</reversals>
+	<saturation>false</saturation>
+	<presentations>76</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>30</reversals>
+	<saturation>false</saturation>
+	<presentations>77</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>28</parameter>
+	<stepsize>2</stepsize>
+	<reversals>30</reversals>
+	<saturation>false</saturation>
+	<presentations>78</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>30</parameter>
+	<stepsize>2</stepsize>
+	<reversals>30</reversals>
+	<saturation>false</saturation>
+	<presentations>79</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>28</parameter>
+	<stepsize>2</stepsize>
+	<reversals>31</reversals>
+	<saturation>false</saturation>
+	<presentations>80</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>31</reversals>
+	<saturation>false</saturation>
+	<presentations>81</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>28</parameter>
+	<stepsize>2</stepsize>
+	<reversals>32</reversals>
+	<saturation>false</saturation>
+	<presentations>82</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>33</reversals>
+	<saturation>false</saturation>
+	<presentations>83</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>33</reversals>
+	<saturation>false</saturation>
+	<presentations>84</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>22</parameter>
+	<stepsize>2</stepsize>
+	<reversals>33</reversals>
+	<saturation>false</saturation>
+	<presentations>85</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>20</parameter>
+	<stepsize>2</stepsize>
+	<reversals>33</reversals>
+	<saturation>false</saturation>
+	<presentations>86</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>22</parameter>
+	<stepsize>2</stepsize>
+	<reversals>34</reversals>
+	<saturation>false</saturation>
+	<presentations>87</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>20</parameter>
+	<stepsize>2</stepsize>
+	<reversals>35</reversals>
+	<saturation>false</saturation>
+	<presentations>88</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>18</parameter>
+	<stepsize>2</stepsize>
+	<reversals>35</reversals>
+	<saturation>false</saturation>
+	<presentations>89</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>20</parameter>
+	<stepsize>2</stepsize>
+	<reversals>36</reversals>
+	<saturation>false</saturation>
+	<presentations>90</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>22</parameter>
+	<stepsize>2</stepsize>
+	<reversals>36</reversals>
+	<saturation>false</saturation>
+	<presentations>91</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>20</parameter>
+	<stepsize>2</stepsize>
+	<reversals>37</reversals>
+	<saturation>false</saturation>
+	<presentations>92</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>22</parameter>
+	<stepsize>2</stepsize>
+	<reversals>38</reversals>
+	<saturation>false</saturation>
+	<presentations>93</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>38</reversals>
+	<saturation>false</saturation>
+	<presentations>94</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>38</reversals>
+	<saturation>false</saturation>
+	<presentations>95</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>39</reversals>
+	<saturation>false</saturation>
+	<presentations>96</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>40</reversals>
+	<saturation>false</saturation>
+	<presentations>97</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">up</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>up</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>24</parameter>
+	<stepsize>2</stepsize>
+	<reversals>41</reversals>
+	<saturation>false</saturation>
+	<presentations>98</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>26</parameter>
+	<stepsize>2</stepsize>
+	<reversals>42</reversals>
+	<saturation>false</saturation>
+	<presentations>99</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">down</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>down</answer>
+<correctanswer>up</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <clipped channel="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="VIRTUAL_TRIAL" type="virtual">
+<!-- This is not a real trial, but a virtual trial based on the previous-->
+<procedure type="adaptiveProcedure" >
+<stimulus>stimulus1</stimulus>
+	<parameter>28</parameter>
+	<stepsize>2</stepsize>
+	<reversals>42</reversals>
+	<saturation>false</saturation>
+	<presentations>100</presentations>
+</procedure>
+</trial>
+
+</apex:results>

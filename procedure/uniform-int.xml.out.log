@@ -1,0 +1,378 @@
+Entered main
+Instantiated Service Application
+Instantiated Service ErrorHandler
+Instantiated Service Application
+Instantiated Service Paths
+Qt Library paths:
+/usr/lib/kde4/plugins
+/usr/lib/i386-linux-gnu/qt4/plugins
+/usr/lib/qt4/plugins
+/home/tom/data/apex/bin/debug
+APEX:: Apex version 3.0.x, $Rev$
+APEX:: Compiled with Qt version 4.8.1
+APEX:: Running with Qt version 4.8.1
+APEX:: The APEX 3 binaries use the Trolltech Qt framework available 
+under the GNU General Public License (GPL version 2) on: 
+http://www.trolltech.com. The APEX 3 source code and 
+binaries are available under the GNU General Public License 
+(GPL version 2) on http://www.kuleuven.be/exporl/apex.
+Looking for apexconfig.xml in /home/tom/.config/ExpORL/apexconfig.xml
+Found
+ApexControl:: Parsing apexconfig file /home/tom/.config/ExpORL/apexconfig.xml
+with schema /home/tom/data/apex/data/schemas/apexconfig.xsd
+Looking for apexconfig.xml in /home/tom/.config/ExpORL/apexconfig.xml
+Found
+Instantiated Service Configuration
+http://med.kuleuven.be/exporl/apex/3.0.2/config /home/tom/data/apex/data/schemas/apexconfig.xsd
+ApexControl:: Done
+Configure done
+Instantiated Service ApexControl
+ApexControl:: Using filename given on the command line
+Selecting File /home/tom/data/apex/.build/test/to_test/procedure/uniform-int.xml
+Parsing Experiment
+ApexControl:: Parsing /home/tom/data/apex/.build/test/to_test/procedure/uniform-int.xml
+http://med.kuleuven.be/exporl/apex/3.0.2/experiment /home/tom/data/apex/data/schemas/experiment.xsd
+ExperimentParser: parsing...
+Parsing procedure
+Parsing corrector
+Parsing screens
+ExperimentParser:: Parsing Screens
+ExperimentParser:: Done
+Parsing datablocks
+Parsing devices
+Parsing devices
+ExperimentConfigFileParser:: Processing devices
+Setting buffer size to 512
+ExperimentConfigFileParser:: Processing devices
+Parsing filters
+ExperimentParser:: Processing filters
+ExperimentParser:: Done
+Parsing stimuli
+ExperimentParser:: Processing stimuli
+Parsing connections
+ExperimentParser:: Processing Connections
+ExperimentParser:: Done
+Parsing randomgenerators
+ExperimentParser:: Processing random generators
+ExperimentParser:: Done
+Pluginloader: scanning directory /home/tom/data/apex/bin/debug
+Instantiated Service PluginLoader
+Pluginloader: scanning directory /home/tom/data/apex/.build/test/to_test/procedure
+APEX:: 0 Error
+APEX:: 0 Warning(s)
+ApexControl:: DONE
+Enabling output recording
+Making output devices
+Card name: default, Driver name: portaudio
+CreateSoundCard
+PortAudioWrapper::PortAudioWrapper default
+ALSA lib pcm_dmix.c:1018:(snd_pcm_dmix_open) unable to open slave
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.HDA-Intel.pcm.rear.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM rear
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.HDA-Intel.pcm.center_lfe.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM center_lfe
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.HDA-Intel.pcm.side.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM side
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib pcm_dmix.c:957:(snd_pcm_dmix_open) The dmix plugin supports only playback stream
+ALSA lib pcm_dmix.c:1018:(snd_pcm_dmix_open) unable to open slave
+getting device id for driver default
+in: 10 out: 10
+num of sample rates=9
+num of sample rates=9
+# channels: 2
+max channels: 32
+Using sound driver buffer size 512
+Internal sound buffer size: 40960 samples
+Making control devices
+Making datablocks
+Making filters
+Making filter ampli
+new gain value for ampli: 0.000000
+Making filter filesink
+Looking for filesink plugin
+Making corrector
+ConnectionsFactory:: not every inputchannel of filesink is connected
+ConnectionsFactory:: not every outputchannel of rawdata1 is connected
+ConnectionsFactory:: not every inputchannel of filesink is connected
+ConnectionsFactory:: not every outputchannel of rawdata1 is connected
+resetting gain for ampli to 0.000000
+new gain value for ampli: 0.000000
+Wavdevice set gain of all channels to 0.000000
+Creating random generator with id=random1
+APEX:: 0 Error
+APEX:: 2 Warning(s)
+ApexControl:: DONE
+Parse commandline done
+Shown MainWindow
+getting point size for text "1" 
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -10.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -30.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -13.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -17.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -15.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -26.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -24.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: 0.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -3.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -1.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -28.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -34.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -33.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -39.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -17.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: 0.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -35.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -14.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -23.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -8.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: 0.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -20.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -9.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -9.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -6.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -5.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -18.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -3.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -34.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -36.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: 0.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -10.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -10.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -34.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -21.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -39.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -37.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -25.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -26.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -4.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: 0.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -4.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -14.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -32.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -31.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -4.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -39.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -11.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -8.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+Found 1 answers corresponding to user input
+new gain value for ampli: -10.000000
+apex::ApexModule:: Playing Stimulus stimulus1
+Automatically selecting button1
+***iAnswered
+ApexResultSink::SaveAs(): m_filename=/home/tom/data/apex/.build/test/to_test/procedure/uniform-int-results.apr
+Current path = /home/tom/data/apex/.build/test/to_test/procedure
+ApexControl:: Experiment Finished
+APEX:: 
+ExitAfter defined, exiting...

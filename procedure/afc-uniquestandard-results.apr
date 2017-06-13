@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/tom/data/apex/.build/test/to_test/procedure/afc-uniquestandard.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2012-11-23T11:02:01</startdate>
+	<enddate>2012-11-23T11:02:15</enddate>
+	<duration unit="seconds">14</duration>
+</general>
+<trial id="trial1">
+<procedure >
+<correct_answer>1</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard2</standard>
+<standard>standard1</standard>
+<standard>standard3</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button3</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>3</answer>
+<correctanswer>1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>1</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard2</standard>
+<standard>standard3</standard>
+<standard>standard1</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>1</answer>
+<correctanswer>1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>3</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard2</standard>
+<standard>standard3</standard>
+<standard>standard1</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button3</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>3</answer>
+<correctanswer>3</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>3</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard1</standard>
+<standard>standard3</standard>
+<standard>standard2</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button3</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>3</answer>
+<correctanswer>3</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>3</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard2</standard>
+<standard>standard1</standard>
+<standard>standard3</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button3</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>3</answer>
+<correctanswer>3</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>3</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard1</standard>
+<standard>standard2</standard>
+<standard>standard3</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>2</answer>
+<correctanswer>3</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>4</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard3</standard>
+<standard>standard2</standard>
+<standard>standard1</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>2</answer>
+<correctanswer>4</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>4</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard1</standard>
+<standard>standard3</standard>
+<standard>standard2</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>4</answer>
+<correctanswer>4</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>3</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard2</standard>
+<standard>standard3</standard>
+<standard>standard1</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>4</answer>
+<correctanswer>3</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure >
+<correct_answer>2</correct_answer>
+<stimulus>stimulus1</stimulus>
+<standard>standard2</standard>
+<standard>standard1</standard>
+<standard>standard3</standard>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>4</answer>
+<correctanswer>2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+
+</apex:results>

@@ -1,0 +1,1171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/jonas/apex/.build/test/to_test/procedure/multiprocedure-aid.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2013-09-04T13:24:16</startdate>
+	<enddate>2013-09-04T13:25:18</enddate>
+	<duration unit="seconds">61</duration>
+</general>
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus3</stimulus>
+	<parameter>3</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>0</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus3</stimulus>
+	<parameter>3</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>0</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_correct2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>1</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus1</stimulus>
+	<parameter>1</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>1</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>0</reversals>
+	<saturation>true</saturation>
+	<presentations>2</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus2</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>1</reversals>
+	<saturation>false</saturation>
+	<presentations>2</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_correct2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>0</reversals>
+	<saturation>true</saturation>
+	<presentations>3</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>1</parameter>
+	<stepsize>1</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>3</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus4</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>1</reversals>
+	<saturation>false</saturation>
+	<presentations>4</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus2</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>4</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<reversal/>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>2</reversals>
+	<saturation>false</saturation>
+	<presentations>5</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus3</stimulus>
+	<parameter>3</parameter>
+	<stepsize>1</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>5</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_correct2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus4</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>6</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus2</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>6</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_correct2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>2</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus3</stimulus>
+	<parameter>3</parameter>
+	<stepsize>1</stepsize>
+	<reversals>3</reversals>
+	<saturation>false</saturation>
+	<presentations>7</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus1</stimulus>
+	<parameter>1</parameter>
+	<stepsize>1</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>7</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus4</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>4</reversals>
+	<saturation>false</saturation>
+	<presentations>8</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus2</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>8</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus3</stimulus>
+	<reversal/>
+	<parameter>3</parameter>
+	<stepsize>1</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>9</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus3</stimulus>
+	<parameter>3</parameter>
+	<stepsize>1</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>9</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus2</stimulus>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>10</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus4</stimulus>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>5</reversals>
+	<saturation>false</saturation>
+	<presentations>10</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_correct2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus3</stimulus>
+	<reversal/>
+	<parameter>3</parameter>
+	<stepsize>1</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>11</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus3</stimulus>
+	<reversal/>
+	<parameter>3</parameter>
+	<stepsize>1</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>11</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus4</stimulus>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>12</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus4</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>7</reversals>
+	<saturation>false</saturation>
+	<presentations>12</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>6</reversals>
+	<saturation>false</saturation>
+	<presentations>13</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>7</reversals>
+	<saturation>false</saturation>
+	<presentations>13</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>6</reversals>
+	<saturation>true</saturation>
+	<presentations>14</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>7</reversals>
+	<saturation>true</saturation>
+	<presentations>14</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_correct2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus4</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>7</reversals>
+	<saturation>false</saturation>
+	<presentations>15</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus4</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>8</reversals>
+	<saturation>false</saturation>
+	<presentations>15</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_wrong2</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>2</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<reversal/>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>8</reversals>
+	<saturation>false</saturation>
+	<presentations>16</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_2">
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus5</stimulus>
+	<reversal/>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>9</reversals>
+	<saturation>false</saturation>
+	<presentations>16</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup2">button_correct2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct2</answer>
+<correctanswer>button_correct2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus5</stimulus>
+	<parameter>5</parameter>
+	<stepsize>1</stepsize>
+	<reversals>8</reversals>
+	<saturation>true</saturation>
+	<presentations>17</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus4</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>9</reversals>
+	<saturation>false</saturation>
+	<presentations>18</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus3</stimulus>
+	<parameter>3</parameter>
+	<stepsize>1</stepsize>
+	<reversals>9</reversals>
+	<saturation>false</saturation>
+	<presentations>19</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus2</stimulus>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>9</reversals>
+	<saturation>false</saturation>
+	<presentations>20</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus1</stimulus>
+	<parameter>1</parameter>
+	<stepsize>1</stepsize>
+	<reversals>9</reversals>
+	<saturation>false</saturation>
+	<presentations>21</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_correct</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>button_correct</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1_1">
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus1</stimulus>
+	<parameter>1</parameter>
+	<stepsize>1</stepsize>
+	<reversals>9</reversals>
+	<saturation>true</saturation>
+	<presentations>22</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button_wrong</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>button_wrong</answer>
+<correctanswer>button_correct</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>0</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="VIRTUAL_TRIAL" type="virtual">
+<!-- This is not a real trial, but a virtual trial based on the previous-->
+<procedure type="adaptiveProcedure" id="procedure1">
+<stimulus>stimulus1</stimulus>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>10</reversals>
+	<saturation>false</saturation>
+	<presentations>23</presentations>
+</procedure>
+</trial>
+<trial id="VIRTUAL_TRIAL" type="virtual">
+<!-- This is not a real trial, but a virtual trial based on the previous-->
+<procedure type="adaptiveProcedure" id="procedure2">
+<stimulus>stimulus5</stimulus>
+	<reversal/>
+	<parameter>4</parameter>
+	<stepsize>1</stepsize>
+	<reversals>10</reversals>
+	<saturation>false</saturation>
+	<presentations>17</presentations>
+</procedure>
+</trial>
+
+</apex:results>

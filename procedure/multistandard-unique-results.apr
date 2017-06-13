@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/tom/data/apex/.build/test/to_test/procedure/multistandard-unique.xml" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<startdate>2012-11-23T11:06:13</startdate>
+	<enddate>2012-11-23T11:06:25</enddate>
+	<duration unit="seconds">12</duration>
+</general>
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<correct_answer>1</correct_answer>
+<stimulus>standard1</stimulus>
+<standard>stimulus2</standard>
+<standard>stimulus1</standard>
+<standard>stimulus4</standard>
+<standard>stimulus3</standard>
+	<parameter>20</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>false</saturation>
+	<presentations>0</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>4</answer>
+<correctanswer>1</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure type="adaptiveProcedure" >
+<correct_answer>2</correct_answer>
+<stimulus>stimulus2</stimulus>
+<standard>standard1</standard>
+<standard>standard1</standard>
+<standard>standard1</standard>
+<standard>standard1</standard>
+	<parameter>2</parameter>
+	<stepsize>2</stepsize>
+	<reversals>0</reversals>
+	<saturation>true</saturation>
+	<presentations>1</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button2</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>2</answer>
+<correctanswer>2</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial1">
+<procedure type="adaptiveProcedure" >
+<correct_answer>4</correct_answer>
+<stimulus>standard1</stimulus>
+<standard>stimulus2</standard>
+<standard>stimulus3</standard>
+<standard>stimulus1</standard>
+<standard>stimulus5</standard>
+	<reversal/>
+	<parameter>20</parameter>
+	<stepsize>1</stepsize>
+	<reversals>1</reversals>
+	<saturation>true</saturation>
+	<presentations>2</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button4</element>
+</screenresult>
+<corrector>
+<result>true</result>
+<answer>4</answer>
+<correctanswer>4</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="trial2">
+<procedure type="adaptiveProcedure" >
+<correct_answer>5</correct_answer>
+<stimulus>stimulus2</stimulus>
+<standard>standard1</standard>
+<standard>standard1</standard>
+<standard>standard1</standard>
+<standard>standard1</standard>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>1</reversals>
+	<saturation>true</saturation>
+	<presentations>3</presentations>
+</procedure>
+<screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button3</element>
+</screenresult>
+<corrector>
+<result>false</result>
+<answer>3</answer>
+<correctanswer>5</correctanswer>
+</corrector>
+<output>
+<device id="wavdevice">
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>1</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+</trial>
+
+<trial id="VIRTUAL_TRIAL" type="virtual">
+<!-- This is not a real trial, but a virtual trial based on the previous-->
+<procedure type="adaptiveProcedure" >
+<correct_answer>5</correct_answer>
+<stimulus>stimulus2</stimulus>
+<standard>standard1</standard>
+<standard>standard1</standard>
+<standard>standard1</standard>
+<standard>standard1</standard>
+	<reversal/>
+	<parameter>2</parameter>
+	<stepsize>1</stepsize>
+	<reversals>2</reversals>
+	<saturation>true</saturation>
+	<presentations>4</presentations>
+</procedure>
+</trial>
+
+</apex:results>

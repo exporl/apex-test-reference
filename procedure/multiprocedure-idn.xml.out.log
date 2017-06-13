@@ -1,0 +1,187 @@
+Entered main
+Instantiated Service Application
+Instantiated Service ErrorHandler
+Instantiated Service Application
+Instantiated Service Paths
+Qt Library paths:
+/usr/lib/kde4/plugins
+/usr/lib/i386-linux-gnu/qt4/plugins
+/usr/lib/qt4/plugins
+/home/jonas/apex/bin/debug
+APEX:: Apex version 3.0.x, $Rev$
+APEX:: Compiled with Qt version 4.8.1
+APEX:: Running with Qt version 4.8.1
+APEX:: The APEX 3 binaries use the Trolltech Qt framework available 
+under the GNU General Public License (GPL version 2) on: 
+http://www.trolltech.com. The APEX 3 source code and 
+binaries are available under the GNU General Public License 
+(GPL version 2) on http://www.kuleuven.be/exporl/apex.
+Looking for apexconfig.xml in /home/jonas/.config/ExpORL/apexconfig.xml
+Trying /home/jonas/apex
+Trying /home/jonas
+Trying /home
+ApexControl:: Parsing apexconfig file /home/jonas/apex//data/config/apexconfig.xml
+with schema /home/jonas/apex/data/schemas/apexconfig.xsd
+Looking for apexconfig.xml in /home/jonas/.config/ExpORL/apexconfig.xml
+Trying /home/jonas/apex
+Trying /home/jonas
+Trying /home
+Instantiated Service Configuration
+http://med.kuleuven.be/exporl/apex/3.0.2/config /home/jonas/apex/data/schemas/apexconfig.xsd
+ApexControl:: Done
+Configure done
+Instantiated Service ApexControl
+ApexControl:: Using filename given on the command line
+Selecting File /home/jonas/apex/.build/test/to_test/procedure/multiprocedure-idn.xml
+Parsing Experiment
+ApexControl:: Parsing /home/jonas/apex/.build/test/to_test/procedure/multiprocedure-idn.xml
+http://med.kuleuven.be/exporl/apex/3.0.2/experiment /home/jonas/apex/data/schemas/experiment.xsd
+ExperimentParser: parsing...
+Parsing procedure
+Adding child to multiprocedureconfig
+Adding procedureconfig to multiprocedure with pointer 0x99b5b60
+Adding child to multiprocedureconfig
+Adding procedureconfig to multiprocedure with pointer 0x99671b8
+ApexMultiProcedureConfig::ShowChildren
+Child: procedure1
+Child: procedure2
+------
+Parsing corrector
+Parsing screens
+ExperimentParser:: Parsing Screens
+ExperimentParser:: Done
+Parsing datablocks
+Parsing devices
+Parsing devices
+ExperimentConfigFileParser:: Processing devices
+Setting buffer size to 512
+ExperimentConfigFileParser:: Processing devices
+Parsing filters
+ExperimentParser:: Processing filters
+ExperimentParser:: Done
+Parsing stimuli
+ExperimentParser:: Processing stimuli
+Parsing connections
+ExperimentParser:: Processing Connections
+ExperimentParser:: Done
+Pluginloader: scanning directory /home/jonas/apex/bin/debug
+Instantiated Service PluginLoader
+Pluginloader: scanning directory /home/jonas/apex/.build/test/to_test/procedure
+APEX:: 0 Error
+APEX:: 0 Warning(s)
+ApexControl:: DONE
+Enabling output recording
+Making ApexMultiProcedure
+ApexMultiProcedureConfig::ShowChildren
+Child: procedure1
+Child: procedure2
+------
+2 child procedures
+type: 1
+type: 1
+Making output devices
+Card name: default, Driver name: portaudio
+CreateSoundCard
+PortAudioWrapper::PortAudioWrapper default
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.hdmi.0:CARD=0,AES0=4,AES1=130,AES2=0,AES3=2'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM hdmi
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.hdmi.0:CARD=0,AES0=4,AES1=130,AES2=0,AES3=2'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM hdmi
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline:CARD=0,DEV=0
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline:CARD=0,DEV=0
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM phoneline
+ALSA lib confmisc.c:1286:(snd_func_refer) Unable to find definition 'cards.CA0106.pcm.modem.0:CARD=0'
+ALSA lib conf.c:4241:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4720:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2217:(snd_pcm_open_noupdate) Unknown PCM phoneline
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib audio/pcm_bluetooth.c:1614:(audioservice_expect) BT_GET_CAPABILITIES failed : Input/output error(5)
+ALSA lib pcm_dmix.c:957:(snd_pcm_dmix_open) The dmix plugin supports only playback stream
+getting device id for driver default
+in: 20 out: 20
+num of sample rates=9
+num of sample rates=9
+# channels: 2
+max channels: 32
+Using sound driver buffer size 512
+Internal sound buffer size: 40960 samples
+Making control devices
+Making datablocks
+Making filters
+Making filter filesink
+Looking for filesink plugin
+Making corrector
+Wavdevice set gain of all channels to 0.000000
+APEX:: 0 Error
+APEX:: 0 Warning(s)
+ApexControl:: DONE
+Parse commandline done
+Shown MainWindow
+getting point size for text "1" 
+getting point size for text "2" 
+getting point size for text "3" 
+apex::ApexModule:: Playing Stimulus stimulus1
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button3
+***iAnswered
+ApexMultiProcedure::GetResultXML: id=
+apex::ApexModule:: Playing Stimulus stimulus4
+getting point size for text "4" 
+getting point size for text "5" 
+getting point size for text "6" 
+getting point size for text "7" 
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button4
+***iAnswered
+ApexMultiProcedure::GetResultXML: id=
+apex::ApexModule:: Playing Stimulus stimulus2
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button2
+***iAnswered
+ApexMultiProcedure::GetResultXML: id=
+apex::ApexModule:: Playing Stimulus stimulus5
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button6
+***iAnswered
+ApexMultiProcedure::GetResultXML: id=
+apex::ApexModule:: Playing Stimulus stimulus3
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button2
+***iAnswered
+ApexMultiProcedure::GetResultXML: id=
+apex::ApexModule:: Playing Stimulus stimulus6
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button5
+***iAnswered
+ApexMultiProcedure::GetResultXML: id=
+apex::ApexModule:: Playing Stimulus stimulus7
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7339:(snd_pcm_recover) underrun occurred
+Automatically selecting button5
+***iAnswered
+ApexMultiProcedure::GetResultXML: id=
+ApexResultSink::SaveAs(): m_filename=/home/jonas/apex/.build/test/to_test/procedure/multiprocedure-idn-results.apr
+Current path = /home/jonas/apex/.build/test/to_test/procedure
+ApexControl:: Experiment Finished
+APEX:: 
+ExitAfter defined, exiting...
