@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/luna.kuleuven.be/u0097884/Workstuff/apex/examples/procedure/128datablocks.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<apex_version>3.1.4</apex_version>
+	<apex_version_git></apex_version_git>
+	<hostname>GBW-L-L0014</hostname>
+	<device_id>{d1f61230-364a-49b8-9dad-cc4003c13908}</device_id>
+	<startdate>2017-06-16T15:02:37</startdate>
+	<enddate>2017-06-16T15:02:48</enddate>
+	<duration unit="seconds">11</duration>
+	<jscript>apex:resultsviewer.html</jscript>
+</general>
+<trial id="trial1">
+<procedure type="apex:constantProcedure">
+<answer>btn_house</answer>
+<correct_answer>btn_house</correct_answer>
+<stimulus>stim_house</stimulus>
+<correct>true</correct>
+</procedure><screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup">btn_house</element>
+</screenresult>
+<output>
+<device id="soundcard">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>17</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+<trial_start_time>2017-06-16T15:02:37</trial_start_time>
+</trial>
+
+
+</apex:results>
