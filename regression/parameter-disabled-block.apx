@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:apex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:apex="http://med.kuleuven.be/exporl/apex/3.1.4/experiment" xsi:schemaLocation="http://med.kuleuven.be/exporl/apex/3.1.4/experiment https://exporl.med.kuleuven.be/apex/schemas/3.1.4/experiment.xsd" version="1">
+    <!-- Set a parameter for a block that would be disabled using bertha -->
+    <procedure xsi:type="apex:constantProcedure">
+        <parameters>
+            <presentations>1</presentations>
+            <order>sequential</order>
+            <corrector xsi:type="apex:isequal"/>
+        </parameters>
+        <trials>
+            <trial id="trial1">
+                <answer>button1</answer>
+                <screen id="screen1"/>
+                <stimulus id="stimulus1"/>
+            </trial>
+            <trial id="trial2">
+                <answer>button2</answer>
+                <screen id="screen1"/>
+                <stimulus id="stimulus2"/>
+            </trial>
+        </trials>
+    </procedure>
+
+    <screens>
+        <reinforcement>
+            <progressbar>true</progressbar>
+            <feedback length="300">true</feedback>
+            <showcurrent>false</showcurrent>
+        </reinforcement>
+        <screen id="screen1">
+            <gridLayout height="2" id="main_layout" width="3">
+                <button id="button1" x="1" y="1">
+                    <text>1</text>
+                </button>
+                <button id="button2" x="2" y="1">
+                    <text>2</text>
+                </button>
+            </gridLayout>
+            <buttongroup id="buttongroup1">
+                <button id="button1"/>
+                <button id="button2"/>
+            </buttongroup>
+            <default_answer_element>buttongroup1</default_answer_element>
+        </screen>
+    </screens>
+
+    <datablocks>
+        <prefix>../stimuli</prefix>
+        <datablock id="rawdata1">
+            <file>wd1.wav</file>
+        </datablock>
+        <datablock id="rawdata2">
+            <file>wd2.wav</file>
+        </datablock>
+    </datablocks>
+
+    <devices>
+        <device id="wavdevice" xsi:type="apex:wavDeviceType">
+            <driver>portaudio</driver>
+            <card>interactive</card>
+            <channels>1</channels>
+            <gain>0</gain>
+            <samplerate>44100</samplerate>
+        </device>
+    </devices>
+
+    <filters>
+        <filter xsi:type="apex:amplifier" id="amplifier">
+            <device>wavdevice</device>
+            <channels>1</channels>
+            <basegain>-10</basegain>
+            <gain id="gain">0</gain>
+        </filter>
+    </filters>
+
+    <stimuli>
+        <fixed_parameters/>
+        <stimulus id="stimulus1">
+            <description>Eenvoudige teststimulus</description>
+            <datablocks>
+                <datablock id="rawdata1"/>
+            </datablocks>
+            <variableParameters>
+                <parameter id="gain">-20</parameter>
+            </variableParameters>
+            <fixedParameters/>
+        </stimulus>
+        <stimulus id="stimulus2">
+            <description>Eenvoudige teststimulus</description>
+            <datablocks>
+                <datablock id="rawdata2"/>
+            </datablocks>
+            <variableParameters>
+                <parameter id="gain">-50</parameter>
+            </variableParameters>
+            <fixedParameters/>
+        </stimulus>
+    </stimuli>
+
+    <connections>
+        <connection>
+            <from>
+                <id>rawdata1</id>
+                <channel>0</channel>
+            </from>
+            <to>
+                <id>wavdevice</id>
+                <channel>0</channel>
+            </to>
+        </connection>
+        <connection>
+            <from>
+                <id>rawdata2</id>
+                <channel>0</channel>
+            </from>
+            <to>
+                <id>amplifier</id>
+                <channel>0</channel>
+            </to>
+        </connection>
+        <connection>
+            <from>
+                <id>amplifier</id>
+                <channel>0</channel>
+            </from>
+            <to>
+                <id>wavdevice</id>
+                <channel>0</channel>
+            </to>
+        </connection>
+    </connections>
+</apex:apex>
