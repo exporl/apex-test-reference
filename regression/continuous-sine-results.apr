@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/luna.kuleuven.be/u0097884/Workstuff/apex/.build/test/results/regression/continuous-sine.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+<general>
+	<apex_version>3.1.4</apex_version>
+	<apex_version_git></apex_version_git>
+	<hostname>GBW-L-L0014</hostname>
+	<device_id>{d1f61230-364a-49b8-9dad-cc4003c13908}</device_id>
+	<startdate>2017-09-01T14:24:42</startdate>
+	<enddate>2017-09-01T14:24:50</enddate>
+	<duration unit="seconds">7</duration>
+	<jscript>apex:resultsviewer.html</jscript>
+</general>
+<trial id="trial1">
+<procedure type="apex:trainingProcedure">
+<stimulus>stimulus1</stimulus>
+<correct>true</correct>
+<answer>button1</answer>
+<correct_answer>button1</correct_answer>
+</procedure><screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>5</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+<trial_start_time>2017-09-01T14:24:43</trial_start_time>
+</trial>
+
+<trial id="trial1">
+<procedure type="apex:trainingProcedure">
+<stimulus>stimulus1</stimulus>
+<correct>true</correct>
+<answer>button1</answer>
+<correct_answer>button1</correct_answer>
+</procedure><screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>8</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+<trial_start_time>2017-09-01T14:24:45</trial_start_time>
+</trial>
+
+<trial id="trial1">
+<procedure type="apex:trainingProcedure">
+<stimulus>stimulus1</stimulus>
+<correct>true</correct>
+<answer>button1</answer>
+<correct_answer>button1</correct_answer>
+</procedure><screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>8</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+<trial_start_time>2017-09-01T14:24:46</trial_start_time>
+</trial>
+
+<trial id="trial1">
+<procedure type="apex:trainingProcedure">
+<stimulus>stimulus1</stimulus>
+<correct>true</correct>
+<answer>button1</answer>
+<correct_answer>button1</correct_answer>
+</procedure><screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>7</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+<trial_start_time>2017-09-01T14:24:47</trial_start_time>
+</trial>
+
+<trial id="trial1">
+<procedure type="apex:trainingProcedure">
+<stimulus>stimulus1</stimulus>
+<correct>true</correct>
+<answer>button1</answer>
+<correct_answer>button1</correct_answer>
+</procedure><screenresult xclickposition="0" yclickposition="0">
+	<element id="buttongroup1">button1</element>
+</screenresult>
+<output>
+<device id="soundcard1">
+  <buffer underruns="0"/>
+</device>
+</output>
+<responsetime unit='ms'>7</responsetime>
+<randomgenerators>
+
+</randomgenerators>
+<trial_start_time>2017-09-01T14:24:48</trial_start_time>
+</trial>
+
+
+</apex:results>
