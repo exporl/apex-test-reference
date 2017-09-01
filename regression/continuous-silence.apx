@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:apex xsi:schemaLocation="http://med.kuleuven.be/exporl/apex/3.1.4/experiment https://exporl.med.kuleuven.be/apex/schemas/3.1.4/experiment.xsd" xmlns:apex="http://med.kuleuven.be/exporl/apex/3.1.4/experiment" version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <procedure xsi:type="apex:constantProcedure">
+    <parameters>
+      <presentations>5</presentations>
+      <skip>0</skip>
+      <order>sequential</order>
+      <corrector xsi:type="apex:isequal"/>
+    </parameters>
+    <trials>
+      <trial id="trial1">
+        <answer>button1</answer>
+        <screen id="screen1"/>
+        <stimulus id="stimulus1"/>
+      </trial>
+    </trials>
+  </procedure>
+  <screens>
+    <screen id="screen1">
+      <gridLayout width="2" height="1">
+        <button id="button1" x="2" y="1">
+          <text>dataloop</text>
+        </button>
+      </gridLayout>
+      <buttongroup id="buttongroup1">
+        <button id="button1"/>
+      </buttongroup>
+      <default_answer_element>buttongroup1</default_answer_element>
+    </screen>
+  </screens>
+  <datablocks>
+    <prefix>../stimuli</prefix>
+    <datablock id="silence">
+      <device>soundcard1</device>
+      <file>silence.wav</file>
+      <channels>1</channels>
+    </datablock>
+    <datablock id="oneSecondSine">
+      <device>soundcard1</device>
+      <file>sine.wav</file>
+      <channels>1</channels>
+    </datablock>
+  </datablocks>
+  <devices>
+    <device id="soundcard1" xsi:type="apex:wavDeviceType">
+      <driver>portaudio</driver>
+      <card>interactive</card>
+      <channels>1</channels>
+      <gain>0</gain>
+      <samplerate>44100</samplerate>
+    </device>
+  </devices>
+  <filters>
+    <filter id="dataloopgen" xsi:type="apex:dataloop">
+      <device>soundcard1</device>
+      <channels>1</channels>
+      <continuous>true</continuous>
+      <datablock>silence</datablock>
+      <basegain>0</basegain>
+      <gain>0</gain>
+    </filter>
+  </filters>
+  <stimuli>
+    <fixed_parameters/>
+    <stimulus id="stimulus1">
+      <datablocks>
+        <datablock id="oneSecondSine"/>
+      </datablocks>
+      <variableParameters/>
+      <fixedParameters/>
+    </stimulus>
+  </stimuli>
+  <connections>
+    <connection>
+      <from>
+        <id>dataloopgen</id>
+        <channel>0</channel>
+      </from>
+      <to>
+        <id>soundcard1</id>
+        <channel>0</channel>
+      </to>
+    </connection>
+    <connection>
+      <from>
+        <id>oneSecondSine</id>
+        <channel>0</channel>
+      </from>
+      <to>
+        <id>soundcard1</id>
+        <channel>0</channel>
+      </to>
+    </connection>
+  </connections>
+</apex:apex>
