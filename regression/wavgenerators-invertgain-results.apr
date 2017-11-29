@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/luna.kuleuven.be/u0097884/Workstuff/apex/.build/test/results/regression/wavgenerators-invertgain.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+  <general>
+    <apex_version>3.1.5</apex_version>
+    <apex_version_git/>
+    <hostname>GBW-L-L0014</hostname>
+    <device_id>{95c8844f-065d-4ec2-9dcd-972d8eed4622}</device_id>
+    <startdate>2017-11-29T13:18:44</startdate>
+    <enddate>2017-11-29T13:18:44</enddate>
+    <duration unit="seconds">0</duration>
+    <jscript>resultsviewer.html</jscript>
+  </general>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>loud</answer>
+      <correct_answer>quiet</correct_answer>
+      <stimulus>stim1</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">loud</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">16</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2017-11-29T13:18:44</trial_start_time>
+  </trial>
+  <trial id="trial2">
+    <procedure type="apex:constantProcedure">
+      <answer>quiet</answer>
+      <correct_answer>quieter</correct_answer>
+      <stimulus>stim2</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">quiet</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">6</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2017-11-29T13:18:44</trial_start_time>
+  </trial>
+  <trial id="trialdef">
+    <procedure type="apex:constantProcedure">
+      <answer>quieter</answer>
+      <correct_answer>loud</correct_answer>
+      <stimulus>sdefault</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">quieter</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">16</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2017-11-29T13:18:44</trial_start_time>
+  </trial>
+</apex:results>
