@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results xmlns:apex="http://med.kuleuven.be/exporl/apex/result" experiment_file="file:/home/u0097884/workstuff/apex/.build/test/results/regression/datablocks-interleaved.apx">
+  <general>
+    <apex_version>3.1.5</apex_version>
+    <apex_version_git/>
+    <hostname>gbw-l-l0014</hostname>
+    <device_id>{ddd2996f-1367-4bff-b2e5-18190ee2b634}</device_id>
+    <startdate>2018-04-10T11:57:18</startdate>
+    <enddate>2018-04-10T11:57:19</enddate>
+    <duration unit="seconds">1</duration>
+    <jscript>resultsviewer.html</jscript>
+  </general>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>btn_house</answer>
+      <correct_answer>btn_house</correct_answer>
+      <stimulus>stim_interleaved</stimulus>
+      <correct>true</correct>
+    </procedure>
+    <screenresult xclickposition="0" yclickposition="0">
+      <element id="buttongroup">btn_house</element>
+    </screenresult>
+    <output>
+      <device id="soundcard">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">10</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-04-10T11:57:18</trial_start_time>
+  </trial>
+</apex:results>
