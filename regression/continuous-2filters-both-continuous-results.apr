@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/u0097884/workstuff/apex/.build/test/results/regression/continuous-2filters-both-continuous.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+  <general>
+    <apex_version>3.1.5</apex_version>
+    <apex_version_git/>
+    <hostname>gbw-l-l0014</hostname>
+    <device_id>{ddd2996f-1367-4bff-b2e5-18190ee2b634}</device_id>
+    <startdate>2018-04-26T18:30:44</startdate>
+    <enddate>2018-04-26T18:30:50</enddate>
+    <duration unit="seconds">5</duration>
+    <jscript>resultsviewer.html</jscript>
+  </general>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>button1</answer>
+      <correct_answer>button1</correct_answer>
+      <stimulus>stimulus1</stimulus>
+      <correct>true</correct>
+    </procedure>
+    <screenresult xclickposition="0" yclickposition="0">
+      <element id="buttongroup1">button1</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <clipped channel="1"/>
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">4</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-04-26T18:30:44</trial_start_time>
+  </trial>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>button1</answer>
+      <correct_answer>button1</correct_answer>
+      <stimulus>stimulus1</stimulus>
+      <correct>true</correct>
+    </procedure>
+    <screenresult xclickposition="0" yclickposition="0">
+      <element id="buttongroup1">button1</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <clipped channel="1"/>
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">4</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-04-26T18:30:45</trial_start_time>
+  </trial>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>button1</answer>
+      <correct_answer>button1</correct_answer>
+      <stimulus>stimulus1</stimulus>
+      <correct>true</correct>
+    </procedure>
+    <screenresult xclickposition="0" yclickposition="0">
+      <element id="buttongroup1">button1</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <clipped channel="1"/>
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">4</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-04-26T18:30:46</trial_start_time>
+  </trial>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>button1</answer>
+      <correct_answer>button1</correct_answer>
+      <stimulus>stimulus1</stimulus>
+      <correct>true</correct>
+    </procedure>
+    <screenresult xclickposition="0" yclickposition="0">
+      <element id="buttongroup1">button1</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <clipped channel="1"/>
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">3</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-04-26T18:30:48</trial_start_time>
+  </trial>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>button1</answer>
+      <correct_answer>button1</correct_answer>
+      <stimulus>stimulus1</stimulus>
+      <correct>true</correct>
+    </procedure>
+    <screenresult xclickposition="0" yclickposition="0">
+      <element id="buttongroup1">button1</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <clipped channel="1"/>
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">4</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-04-26T18:30:49</trial_start_time>
+  </trial>
+  <study>
+    <name>experiments-test5</name>
+    <branch>master</branch>
+  </study>
+</apex:results>
