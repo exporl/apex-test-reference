@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/u0097884/workstuff/apex/.build/test/results/regression/datablocks-combination.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+  <general>
+    <apex_version>3.1.5</apex_version>
+    <apex_version_git/>
+    <hostname>gbw-l-l0014</hostname>
+    <device_id>{ddd2996f-1367-4bff-b2e5-18190ee2b634}</device_id>
+    <startdate>2018-05-25T11:21:09</startdate>
+    <enddate>2018-05-25T11:21:12</enddate>
+    <duration unit="seconds">2</duration>
+    <jscript>resultsviewer.html</jscript>
+  </general>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>e</correct_answer>
+      <stimulus>stimulus1</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">11</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:09</trial_start_time>
+  </trial>
+  <trial id="trial2">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>t</correct_answer>
+      <stimulus>stimulus2</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">14</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:09</trial_start_time>
+  </trial>
+  <trial id="trial3">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>d</correct_answer>
+      <stimulus>stimulus3</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">5</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:09</trial_start_time>
+  </trial>
+  <trial id="trial4">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>vier</correct_answer>
+      <stimulus>stimulus4</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">15</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:10</trial_start_time>
+  </trial>
+  <trial id="trial5">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>vijf</correct_answer>
+      <stimulus>stimulus5</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">15</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:10</trial_start_time>
+  </trial>
+  <trial id="trial6">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>zes</correct_answer>
+      <stimulus>stimulus6</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">19</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:10</trial_start_time>
+  </trial>
+  <trial id="trial7">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>zeven</correct_answer>
+      <stimulus>stimulus7</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">18</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:10</trial_start_time>
+  </trial>
+  <trial id="trial8">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>acht</correct_answer>
+      <stimulus>stimulus8</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">20</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:11</trial_start_time>
+  </trial>
+  <trial id="trial9">
+    <procedure type="apex:constantProcedure">
+      <answer>button</answer>
+      <correct_answer>negen</correct_answer>
+      <stimulus>stimulus9</stimulus>
+      <correct>false</correct>
+    </procedure>
+    <screenresult yclickposition="0" xclickposition="0">
+      <element id="buttongroup1">button</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">18</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-25T11:21:11</trial_start_time>
+  </trial>
+</apex:results>
