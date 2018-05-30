@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<apex:results experiment_file="file:/home/u0097884/workstuff/apex/.build/test/results/regression/continuous-fadefilter.apx" xmlns:apex="http://med.kuleuven.be/exporl/apex/result">
+  <general>
+    <apex_version>3.1.5</apex_version>
+    <apex_version_git/>
+    <hostname>gbw-l-l0014</hostname>
+    <device_id>{ddd2996f-1367-4bff-b2e5-18190ee2b634}</device_id>
+    <startdate>2018-05-30T13:18:26</startdate>
+    <enddate>2018-05-30T13:18:27</enddate>
+    <duration unit="seconds">1</duration>
+    <jscript>resultsviewer.html</jscript>
+  </general>
+  <trial id="trial1">
+    <procedure type="apex:constantProcedure">
+      <answer>button1</answer>
+      <correct_answer>button1</correct_answer>
+      <stimulus>stimulus1</stimulus>
+      <correct>true</correct>
+    </procedure>
+    <screenresult xclickposition="0" yclickposition="0">
+      <element id="buttongroup1">button1</element>
+    </screenresult>
+    <output>
+      <device id="soundcard1">
+        <buffer underruns="0"/>
+      </device>
+    </output>
+    <responsetime unit="ms">5</responsetime>
+    <randomgenerators/>
+    <trial_start_time>2018-05-30T13:18:26</trial_start_time>
+  </trial>
+</apex:results>
